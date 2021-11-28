@@ -8,9 +8,10 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=DruboSaptapan.Aditya664)
 [![Github](https://img.shields.io/github/followers/DruboSaptapan?label=Follow&style=social)](https://github.com/DruboSaptapan)
 
+<img width="250" height="160" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on  Web developer
   
@@ -19,10 +20,13 @@
 - 💬 Ask me about HTML, CSS.
   
 - ⚡ Fun fact: Me gustan los girasoles.
+<br>
+<br>
+<br>
 
 <hr/>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills</h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <p>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
@@ -47,13 +51,13 @@
 <!-- | ![Saptapan's github stats](https://github-readme-stats.vercel.app/api?username=DruboSaptapan&show_icons=true&theme=tokyonight) | ![Saptapan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DruboSaptapan4&theme=tokyonight)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DruboSaptapan&theme=github_dark)
 
-![Github Stars](https://github-readme-stats.vercel.app/api?username=DruboSaptapan&theme=github_dark)
+<!-- [![Github Stars](https://github-readme-stats.vercel.app/api?username=DruboSaptapan&theme=github_dark)] -->
 
-[![Saptapan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DruboSaptapan&theme=react-dark)](https://git.io/praveenscience)
+<!-- [![Saptapan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DruboSaptapan&theme=react-dark)](https://git.io/praveenscience) -->
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<!-- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DruboSaptapan&row=2&column=3&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DruboSaptapan&row=2&column=3&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
