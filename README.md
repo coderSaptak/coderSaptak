@@ -20,7 +20,6 @@
 - 💬 Ask me about HTML, CSS.
   
 - ⚡ Fun fact: Me gustan los girasoles.
-<br>
 
 <hr/>
 
