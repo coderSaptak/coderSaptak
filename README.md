@@ -43,7 +43,6 @@
   
 <br>
 <hr/>
-<br/>
 
 ### LAST ASSIGNMENTS
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DruboSaptapan&repo=Cycle-mart-client-side&theme=github_dark)](https://github.com/AnikBarua34/Niche-Website-Ass-12-.git)
