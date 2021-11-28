@@ -21,8 +21,6 @@
   
 - ⚡ Fun fact: Me gustan los girasoles.
 <br>
-<br>
-<br>
 
 <hr/>
 
