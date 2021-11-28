@@ -43,13 +43,13 @@
 <br>
 <hr/>
 <br/>
-  
-[![Saptapan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DruboSaptapan&theme=react-dark)](https://git.io/praveenscience)
 
 <!-- | ![Saptapan's github stats](https://github-readme-stats.vercel.app/api?username=DruboSaptapan&show_icons=true&theme=tokyonight) | ![Saptapan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DruboSaptapan4&theme=tokyonight)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DruboSaptapan&theme=github_dark)
 
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=DruboSaptapan&theme=github_dark)
+
+[![Saptapan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DruboSaptapan&theme=react-dark)](https://git.io/praveenscience)
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 
