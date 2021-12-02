@@ -18,8 +18,6 @@
 - 🌱 I’m currently try to learning mongoDB.
   
 - 💬 Ask me about HTML, CSS.
-  
-- ⚡ Fun fact: Me gustan los girasoles.
 
 <hr/>
 
