@@ -42,8 +42,8 @@
 <br>
 <hr/>
 
-### LAST ASSIGNMENTS
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DruboSaptapan&repo=Cycle-mart-client-side&theme=github_dark)](https://github.com/AnikBarua34/Niche-Website-Ass-12-.git)
+<!-- ### LAST ASSIGNMENTS -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DruboSaptapan&repo=Cycle-mart-client-side&theme=github_dark)](https://github.com/AnikBarua34/Niche-Website-Ass-12-.git) -->
 
 <!-- | ![Saptapan's github stats](https://github-readme-stats.vercel.app/api?username=DruboSaptapan&show_icons=true&theme=tokyonight) | ![Saptapan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DruboSaptapan4&theme=tokyonight)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DruboSaptapan&theme=github_dark)
