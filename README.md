@@ -35,9 +35,7 @@
 
 ### Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <a href = 'https://www.linkedin.com/in/saptapan-barua-6ba26819a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'mailto:saptapan2017@gmail.com'> <img width = '60px' align= 'center' src="https://i.postimg.cc/ydfvh2s5/Gmail-logo-removebg-preview.png"/></a>
-<!-- <a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  -->
-<a href = 'https://github.com/DruboSaptapan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'mailto:saptapan2017@gmail.com'> <img width = '60px' align= 'center' src="https://i.postimg.cc/ydfvh2s5/Gmail-logo-removebg-preview.png"/></a><a href = 'https://github.com/DruboSaptapan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a><!-- <a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  -->
   
 
 ---
