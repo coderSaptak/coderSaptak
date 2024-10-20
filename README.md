@@ -5,17 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&size=36&vCenter=true&lines=I'm+Saptapan+Barua)](https://git.io/typing-svg)
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=DruboSaptapan.Aditya664)
-[![Github](https://img.shields.io/github/followers/DruboSaptapan?label=Follow&style=social)](https://github.com/DruboSaptapan)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=coderSaptak.Aditya664)
+[![Github](https://img.shields.io/github/followers/coderSaptak?label=Follow&style=social)](https://github.com/coderSaptak)
 
 <img width="250" height="160" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 ## About Me
-
-
-- 🔭 I’m currently working on  Web developer
-  
-- 🌱 I’m currently try to learning mongoDB.
   
 - 💬 Ask me about HTML, CSS.
 
@@ -41,7 +36,7 @@
 ---
 
 <!-- | ![Saptapan's github stats](https://github-readme-stats.vercel.app/api?username=DruboSaptapan&show_icons=true&theme=tokyonight) | ![Saptapan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DruboSaptapan4&theme=tokyonight)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DruboSaptapan&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderSaptak&theme=github_dark)
 
 <!-- [![Github Stars](https://github-readme-stats.vercel.app/api?username=DruboSaptapan&theme=github_dark)] -->
 
